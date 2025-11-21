@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\bin\Debug\net6.0\EulaticDomain.deps.json
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\bin\Debug\net6.0\EulaticDomain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\bin\Debug\net6.0\EulaticDomain.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\EulaticDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\EulaticDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\EulaticDomain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\EulaticDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\EulaticDomain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\refint\EulaticDomain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\EulaticDomain.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\ref\EulaticDomain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\EulaticDomain\obj\Debug\net6.0\EulaticDomain.sourcelink.json
