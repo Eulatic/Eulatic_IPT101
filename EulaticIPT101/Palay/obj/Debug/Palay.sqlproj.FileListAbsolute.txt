@@ -1,0 +1,16 @@
+D:\Nalab\EulaticSolution1\Palay\bin\Debug\Palay.dacpac
+D:\Nalab\EulaticSolution1\Palay\bin\Debug\Palay.dll
+D:\Nalab\EulaticSolution1\Palay\bin\Debug\Palay.pdb
+D:\Nalab\EulaticSolution1\Palay\obj\Debug\Palay.sqlproj.AssemblyReference.cache
+D:\Nalab\EulaticSolution1\Palay\obj\Debug\Model.xml
+D:\Nalab\EulaticSolution1\Palay\obj\Debug\refactor.xml
+D:\Nalab\EulaticSolution1\Palay\obj\Debug\postdeploy.sql
+D:\Nalab\EulaticSolution1\Palay\obj\Debug\predeploy.sql
+D:\Nalab\EulaticSolution1\Palay\obj\Debug\Palay.dll
+D:\Nalab\EulaticSolution1\Palay\obj\Debug\Palay.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\Palay\bin\Debug\Palay.dacpac
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\Palay\bin\Debug\Palay.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\Palay\bin\Debug\Palay.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\Palay\obj\Debug\Palay.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\Palay\obj\Debug\Palay.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\Palay\obj\Debug\Palay.pdb

@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\bin\Debug\net9.0\PalayHarvest.Domain.deps.json
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\bin\Debug\net9.0\PalayHarvest.Domain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\bin\Debug\net9.0\PalayHarvest.Domain.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\PalayHarvest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\PalayHarvest.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\PalayHarvest.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\PalayHarvest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\PalayHarvest.Domain.sourcelink.json
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\PalayHarvest.Domain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\refint\PalayHarvest.Domain.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\PalayHarvest.Domain.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\EulaticSolution1\PalayHarvest.Domain\obj\Debug\net9.0\ref\PalayHarvest.Domain.dll
